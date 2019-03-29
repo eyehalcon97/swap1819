@@ -1,6 +1,4 @@
 # swap1819
-Practicas Swap
-Servidores Web de Altas Prestaciones
 Practica 1:
 
 Para empezar nos iremos a configuracion del la virtualbox -> administrador de redes Anfitrion
