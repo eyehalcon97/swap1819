@@ -3,7 +3,7 @@ Practica 3:
 En esta tercera practica vamos a configurar una tercera maquina virtual que hara de balanceador de carga:
 Nuesta configuracion quedara tal que asi:
 
-![configuracion](./capturas/img3.1.png)
+![configuracion](./capturas/img3.1.PNG)
 
 Vamos a crear dos nuevas maquinas virtuales, vamos a hacer un balanceador de carga con nginx y un balanceador de carga con haproxy
 
