@@ -1,6 +1,7 @@
 # swap1819
-Practica 2:
-En la segunda parte nos vamos a la maquina 2 y escribimos lo siguiente:
+Practica 3:
+En esta practica haremos balanceo de carga entre nuestras dos maquinas servidores finales:
+
 ssh-keygen -b 4096 -t rsa
 Luego una vez creada nuestra clave privada, copiamos nuestra clave a la otra maquina a traves de ssh con:
 ssh-copy-id maquina1
